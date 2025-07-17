@@ -13,5 +13,6 @@ Creating and analyzing retention tables
 
 The dataset, sourced from the UCI Machine Learning Repository, contains transactions from a UK-based online gift retailer between December 2010 and December 2011, with many customers being wholesalers.
 
-
+Follow the link below to access the medium article for more valueable and detailed explanation.
+https://medium.com/@samiya03.m/retail-store-cohort-retention-analysis-d73ebf0dc191
 
