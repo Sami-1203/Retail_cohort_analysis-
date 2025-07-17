@@ -1,4 +1,4 @@
-# Retail_cohort_analysis-
+# Cohort Analysis using SQL 
 This project involves a cohort analysis of an online retail dataset using SQL to explore customer trends and behavior over time. Cohort analysis is a method that groups users based on shared characteristics, such as their first purchase month, to track patterns like retention. The goal is to apply key data analysis skills, including:
 
 Handling missing values
