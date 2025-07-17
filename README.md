@@ -1,23 +1,17 @@
 # Cohort Analysis using SQL 
-This project involves a cohort analysis of an online retail dataset using SQL to explore customer trends and behavior over time. Cohort analysis is a method that groups users based on shared characteristics, such as their first purchase month, to track patterns like retention. The goal is to apply key data analysis skills, including:
+This project uses SQL to perform a cohort retention analysis on an online retail dataset to understand customer behavior and drop-off trends over time. Customers are grouped by their first purchase month, and their activity is tracked to calculate retention rates.
 
-Handling missing values
+Key tasks included:
 
+Handling missing data
 
-Extracting month from dates
+Extracting date features
 
+Assigning cohorts and cohort indices
 
-Assigning cohorts to transactions
+Creating and analyzing retention tables
 
-
-Calculating cohort index
-
-
-Creating a retention table
+The dataset, sourced from the UCI Machine Learning Repository, contains transactions from a UK-based online gift retailer between December 2010 and December 2011, with many customers being wholesalers.
 
 
-Interpreting retention rates
-
-
-The dataset comes from the UCI Machine Learning Repository and includes transactions from a UK-based online gift retailer between December 1, 2010, and December 9, 2011. Many of the customers are wholesalers.
 
